@@ -8,3 +8,7 @@ Scenario 2: Operational Efficiency An airport authority aims to enhance efficien
 
 Scenario 3: Customer Experience Enhancement Airlines seek to improve passenger experience by understanding customer preferences and satisfaction. Using sentiment analysis on feedback data in Qlik, they can identify improvement areas, personalize services, and tailor marketing to better meet customer needs, fostering loyalty and satisfaction.
 
+Key objectives include:
+
+Analyzing flight schedules to identify peak times and optimize resource allocation. Examining passenger demographics to tailor services and improve customer satisfaction. Evaluating performance metrics to improve operational efficiency and on-time performance.
+
